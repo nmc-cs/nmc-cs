@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nitin Chava Digital Craftsman (Student/Entrepreneur/Coach)</h1>
+<h1 align="center">Hi, I'm Nitin Chava</h1>
 <h3 align="center">I'm am a junior at the University of Missouri-Columbia studying Computer Science building a digital world of my own one step at a time. All coding projects are built to solve real-life problems and to make my life better.</h3>
 
 - 📫 How to reach me **nitinchava10@gmail.com**
