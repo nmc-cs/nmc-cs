@@ -1,4 +1,5 @@
-## Hey 👋, I'm Nitin Chava!  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=29&duration=3000&pause=1000&color=FF5A60&width=450&lines=Hi!+I'm+Nitin+Chava.;Thanks+for+visiting+my+Github!)](https://git.io/typing-svg)
+
   
 
 <a href="https://github.com/nmc-cs" target="_blank">
@@ -27,7 +28,7 @@ I'm am a junior at the University of Missouri-Columbia studying Computer Science
 <br/>  
 
 
-## Languages and Tools  
+## Languages/Frameworks/Tools
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
