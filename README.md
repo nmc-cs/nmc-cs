@@ -22,7 +22,7 @@
 
 
 ### Glad to see you here!  
-I'm am a junior at the University of Missouri-Columbia studying Computer Science building a digital world of my own one step at a time. All coding projects are built to solve real-life problems and to make my life better.  
+I'm am a junior at the University of Missouri-Columbia studying Computer Science building a digital world of my own one step at a time. All coding projects are built to solve real-life problems and to make my life better. Feel free to explore my repositories and reach out with any questions or collaboration opportunities.
   
 
 <br/>  
@@ -43,6 +43,3 @@ I'm am a junior at the University of Missouri-Columbia studying Computer Science
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
