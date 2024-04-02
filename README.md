@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=29&duration=3000&pause=1000&color=FF5A60&width=450&lines=Hi!+I'm+Nitin+Chava.;Thanks+for+visiting+my+Github!)](https://git.io/typing-svg)
 
   
-
-<a href="https://gitlab.com/nmc-cs" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/nmc03" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/nmc-cs" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/nithin.chava" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
