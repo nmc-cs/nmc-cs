@@ -18,7 +18,6 @@
 
 
 ### Glad to see you here!  
-I'm am a junior at the University of Missouri-Columbia studying Computer Science building a digital world of my own one step at a time. All my coding projects are built to solve real-life problems and to build upon or learn new skills. Feel free to explore my repositories and reach out with any questions or collaboration opportunities.
   
 
 <br/>  
