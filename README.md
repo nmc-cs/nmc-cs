@@ -18,7 +18,9 @@
 
 
 ### Glad to see you here!  
-  
+Hey, senior at Mizzou studying CS... passionate on all things tech. Currently focused on developing and integrating AgenticAI & GenAI with cybersecurity solutions.
+
+Feel free to reach out @ nitinchava10@gmail.com
 
 <br/>  
 
